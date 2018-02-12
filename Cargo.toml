@@ -1,0 +1,11 @@
+[package]
+name = "secret_store"
+version = "0.1.0"
+authors = ["moneystream"]
+
+[dependencies]
+rustc-hex = "1.0.0"
+rust-crypto = "0.2"
+num-bigint = "^0.1"
+rand = "0.3"
+ethereum-types = "0.2.0"
